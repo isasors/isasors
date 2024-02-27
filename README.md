@@ -1,7 +1,7 @@
 ### Olá eu sou a Isa! 👋
 
 - 🔭 Trabalho com Desenvolvimento de BI
-- 🌱 Estudo Ciências de Dados
+- 🌱 Estudo Ciência de Dados
 - 😄 Lifelong Learning ♡
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isasors&show_icons=true&theme=tokyonight)
