@@ -1,6 +1,6 @@
 ### Olá eu sou a Isa! 👋
 
-- 🔭 Trabalho com Análise de Dados e Desenvolvimento de BI
+- 🎯 Trabalho com Análise de Dados e Desenvolvimento de BI
 - 🌱 Estudo Ciência de Dados
 - 😄 Lifelong Learning ♡
 
@@ -8,7 +8,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">    
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">  
 </div>
  
  ##
