@@ -1,6 +1,6 @@
 ### Olá eu sou a Isa! 👋
 
-- 🎯 Trabalho com Análise de Dados, Analise de BI e Desenvolvimento de BI
+- 🎯 Trabalho com Análise de Dados e Desenvolvimento de BI
 - 🌱 Estudo Analise e Ciência de Dados
 - 😄 Lifelong Learning ♡
 
