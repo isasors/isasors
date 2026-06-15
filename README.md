@@ -1,1 +1,1 @@
-- Analista de Dados & BI 🎯
+Analista de Dados & BI 🎯
